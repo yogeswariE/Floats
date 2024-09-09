@@ -1,0 +1,21 @@
+.left{
+    height: 370px;
+    width: 40%;
+    float: left;
+    background-image: url(kanna.jpg);
+    background-size:cover ;   
+}
+.right{
+    color:black
+    width: 46%;
+    float: right;
+    height: 370px;
+    text-align: justify;
+    
+}
+.para{
+    color: black;
+    clear: both;
+    text-align: justify;
+}
+
